@@ -2,6 +2,8 @@ baseURL = 'https://stephenjamesada.github.io'
 languageCode = 'en-us'
 title = 'stephen@homelab'
 theme = "hugo-theme-console"
+relativeURLs = false
+canonifyURLs = true
 
 [markup]
   [markup.goldmark]
