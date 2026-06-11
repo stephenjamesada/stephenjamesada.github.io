@@ -1,0 +1,11 @@
+:root {
+    --background-color: #000;
+    --font-color: #ffffff;
+    --invert-font-color: #000000;
+
+    --primary-color: #ffffff;
+    --secondary-color: #a0a0a0;
+
+    --code-bg-color: #111111;
+    --block-background-color: #111111;
+}

@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'stephen@homelab'
+theme = "hugo-theme-console"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[module.imports]]
+  path = "github.com/mrmierzejewski/hugo-theme-console"
+
+[params]
+  description = "Working with Linux systems 24/7"
+  animateStyle = "animate-fade-up" # Animation style for content
+
+[[params.navlinks]]
+  name = "/home"
+  url = "/"
+
+[[params.navlinks]]
+  name = "/projects"
+  url = "/projects/"
+
+[[params.navlinks]]
+  name = "/homelab"
+  url = "/homelab/"
