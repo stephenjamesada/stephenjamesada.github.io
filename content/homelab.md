@@ -1,7 +1,7 @@
 +++
 title = 'Homelab'
 date = 2026-06-10T08:47:12-05:00
-draft = true
+draft = false
 +++
 
 <img src="/images/thinkpad-3.jpg" alt="ThinkPad Open" height="725" style="width: 725px;">

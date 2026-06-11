@@ -1,7 +1,7 @@
 +++
 title = 'Projects'
 date = 2026-06-10T08:46:58-05:00
-draft = true
+draft = false
 +++
 
 This page is a personal collection of my deployment, Linux management, and infrastructure projects.
