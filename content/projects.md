@@ -24,13 +24,17 @@ This page is a personal collection of my deployment, Linux management, and infra
 
 ### Notable Scripts
 
-- `pomo.sh`
+- [`pomo.sh`](https://github.com/stephenjamesada/scripts/blob/main/productivity/pomo.sh)
 
 *Simple notification-based pomodoro timer.*
 
-- `system-update.sh`
+- [`netdia.sh`](https://github.com/stephenjamesada/scripts/blob/main/networking/netdia.sh)
 
-*Runs a full system update and upgrade. Written for apt, so it will work with nearly any Debian-based system.*
+*Network diagnostic script that tests a host and port for DNS resolution, reachability, route, and if that port is open or closed.*
+
+- [`new-host.sh`](https://github.com/stephenjamesada/scripts/blob/main/system/ssh/new-host.sh)
+
+*SSH script that automates the creation of a new alias in your SSH config file.*
 
 ## Documentation
 
