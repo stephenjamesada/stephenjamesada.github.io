@@ -18,7 +18,7 @@ Everything else was pure Markdown for page construction.
 ## How to Run
 
 ```bash
-git clone https://github.com/stephenjamesada/stephenjamesada.github.io.git
+git clone --recurse-submodules https://github.com/stephenjamesada/stephenjamesada.github.io.git
 cd stephenjamesada.github.io
 hugo server
 ```
