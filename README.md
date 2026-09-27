@@ -24,3 +24,5 @@ hugo server
 ```
 
 ## License
+
+[MIT License](LICENSE)
