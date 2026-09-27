@@ -6,6 +6,10 @@ This is my portfolio site, created with the static site generator Hugo,
 and deployed via GitHub Pages.
 The main goal of this site is to create a home for my personal projects, and showcase my growth.
 
+## Theme Used
+
+- [hugo-theme-console](https://github.com/mrmierzejewski/hugo-theme-console)
+
 ## Tech Stack
 
 - HTML
